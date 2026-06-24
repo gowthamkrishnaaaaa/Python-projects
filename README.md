@@ -4,6 +4,9 @@ This repository contains Python programs and Jupyter notebooks completed as part
 
 ## Files
 - matplotlibprogram.ipynb
+- numpyprogrms.ipynb
+- pandasprogram.ipynb
+- eda-iris_dataset.ipynb
 
 ## Author
 Gowtham Krishna
